@@ -125,12 +125,23 @@ Current approved mobile food vendor list chunk sent and confirmed in Gmail All M
 
 No immediate bounce matched these four addresses in the post-send scan.
 
+## Drafted Prospect Batch
+
+Drafted prospect chunk sent and confirmed in Gmail All Mail:
+
+- Carasau Pasta Bar: Info@carasaupastabar.com
+- Le Goût Bakery & Café: info@legoutpastry.co
+- Ludivine Paris: info@ludivineparis.com
+- OhMyGnosh! Catering: chefjulie@ohmygnosh.com
+
+No immediate bounce matched these four addresses in the post-send scan.
+
 ## Running Total
 
 Confirmed voice-agent first touches from this repo:
 
 ```text
-49
+53
 ```
 
 Confirmed delivery failures from this repo:
@@ -149,5 +160,5 @@ Bounced addresses:
 Active non-bounced first-touch pipeline:
 
 ```text
-45
+49
 ```

@@ -77,7 +77,8 @@ I can set this up for your menu and call flow in one afternoon. The setup sprint
 - Replacement $499 diagnostic chunk sent to 4 prospects and confirmed in Gmail All Mail.
 - Fresh $499 diagnostic chunk sent to 4 prospects and confirmed in Gmail All Mail.
 - Mobile vendor $499 diagnostic chunk sent to 4 prospects and confirmed in Gmail All Mail.
-- Confirmed voice-agent first touches from this repo: 49.
+- Drafted prospect $499 diagnostic chunk sent to 4 prospects and confirmed in Gmail All Mail.
+- Confirmed voice-agent first touches from this repo: 53.
 - Confirmed delivery failures: 4.
 - Active non-bounced pipeline (draft+queued+contacted+replied+demo_booked+won): 59.
 - 9 additional high-fit prospects were sourced (draft only; not contacted). Draft copy is in `reports/gtm/2026-05-06-money-today/outbound-drafts-next-batch.md`.
