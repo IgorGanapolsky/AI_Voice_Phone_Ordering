@@ -1,0 +1,2 @@
+restaurant_name,email,status,timestamp,dry_run,error
+Rice Mediterranean Kitchen,Catering@ricekitchen.com,queued_outbox,2026-05-06T15:48:51-04:00,false,Mail Outbox present; Gmail All Mail not confirmed yet

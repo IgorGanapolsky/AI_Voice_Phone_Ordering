@@ -1,0 +1,4 @@
+restaurant_name,email,status,timestamp,dry_run,error
+Rice Mediterranean Kitchen,Catering@ricekitchen.com,dry_run,2026-05-06T15:48:11-04:00,true,
+Belly Fish Sushi (Catering),support@eatbellyfish.com,dry_run,2026-05-06T15:48:11-04:00,true,
+Fire & Flavor Hibachi,info@fireandflavorhibachi.com,dry_run,2026-05-06T15:48:11-04:00,true,

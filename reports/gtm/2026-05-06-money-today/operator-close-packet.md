@@ -88,12 +88,12 @@ I can set this up for your menu and call flow in one afternoon. The setup sprint
 - Remaining drafted prospect $499 diagnostic + audio proof chunk sent to 5 prospects and confirmed in Mail sent box.
 - Fresh web-sourced $499 diagnostic + audio proof chunk sent to 12 prospects and confirmed in Mail sent box.
 - Soft phone-order audit reply CTA sent to 7 additional published-email prospects and recorded in `sales/sent_lock.csv`.
-- Confirmed voice-agent first touches from this repo: 77.
+- `sales/lead_tracker.csv` truth: 96 total leads = 72 `contacted`, 18 `draft`, 1 `queued`, 4 `bounced`, 1 `lost` (active non-bounced pipeline = 91).
 - $99 audit follow-up sent to 8 warm prospects and confirmed in Gmail All Mail.
 - Confirmed delivery failures: 4.
 - Confirmed lost replies: 1.
-- Active contacted non-bounced pipeline: 72.
-- Remaining draft-only leads: 12 (7 with published email+phone; 5 phone-only without email).
+- Remaining draft-only leads: 18 (11 with published email; 7 phone-only/contact-form leads).
+- Rice Mediterranean Kitchen is queued in Mail Outbox only; do not mark contacted until Gmail All Mail confirms send.
 - Public demo is live: `https://igorganapolsky.github.io/AI_Voice_Phone_Ordering/`
 - Public landing now shows the $99 audit checkout as the lowest-friction CTA.
 - Zernio organic dispatch completed successfully:
@@ -103,7 +103,7 @@ I can set this up for your menu and call flow in one afternoon. The setup sprint
   - Threads: `https://www.threads.com/@igorganapolsky/post/DYAgerbiDYL`
   - Bluesky: `https://bsky.app/profile/iganapolsky.bsky.social/post/3ml7eorsxua2c`
 - 2026-05-06 15:37 ET $99 audit Bluesky short dispatch completed on GitHub Actions run `25456470663`; logs report `published=1`, `errors=0`.
-- Stripe live balance remains `$0` available and `$0` pending as of 2026-05-06 15:44 ET; May 6 charge search returned no charges as of 2026-05-06 15:44 ET.
+- Stripe live balance remains `$0` available and `$0` pending as of 2026-05-06 15:45 ET; May 6 charge search returned no charges as of 2026-05-06 15:45 ET.
 - Inbox scan after the $99 follow-up found one lost reply from Seasons Catering: `Not interested at this time`. No immediate delivery failures matched those 8 follow-up addresses.
 - Exquisite Catering Boxtrapper verification passed at 2026-05-06 15:39 ET; this is not a buyer reply, so it remains in monitor state.
 - Zernio budget is capped at `$5/month`; organic publishing only. The provided local key returned `401 Unauthorized`, so rotate it before reuse.
