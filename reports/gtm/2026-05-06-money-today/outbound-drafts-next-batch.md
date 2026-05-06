@@ -33,3 +33,16 @@ Igor
 - Ceci's Gastronomia (Los Angeles) — `info@cecisoven.com` — 213-277-1690
 - Bruce's Catering & Events (Los Angeles) — `info@brucescatering.com` — 818-376-1288
 - JT Catering Services (Los Angeles) — `info@jtcateringinc.com` — 323-282-1636
+
+## New Prospects (Draft / Not Sent)
+
+Timestamp: 2026-05-06 16:16 ET
+
+- The Indian Harbor Catering (Fort Lauderdale) — `info@theindianharbor.com` — 754-610-2723
+- Feast On Us Catering (New York) — `feastonus@aol.com` — 212-242-8231
+- BLC Catering (New York) — `info@blccateringny.com` — 212-510-8810
+- Specialty Events & Catering (Los Angeles) — `specialityevents.catering@gmail.com` — 310-363-3060
+- Metro Catering NYC (New York) — `info@metrocateringnyc.com` — 212-268-2828
+- Park East Kosher Catering (New York) — `catering@parkeastkosher.com` — 212-737-9800
+- City Kitchen LA (Los Angeles) — `infola@citykitchen.com` — 800-704-2070
+- Hidden City NYC Catering (New York) — `info@hiddencitynyc.com` — 212-979-6161

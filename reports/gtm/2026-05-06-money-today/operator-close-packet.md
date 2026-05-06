@@ -88,11 +88,12 @@ I can set this up for your menu and call flow in one afternoon. The setup sprint
 - Remaining drafted prospect $499 diagnostic + audio proof chunk sent to 5 prospects and confirmed in Mail sent box.
 - Fresh web-sourced $499 diagnostic + audio proof chunk sent to 12 prospects and confirmed in Mail sent box.
 - Soft phone-order audit reply CTA sent to 7 additional published-email prospects and recorded in `sales/sent_lock.csv`.
-- `sales/lead_tracker.csv` truth: 96 total leads = 72 `contacted`, 18 `draft`, 1 `queued`, 4 `bounced`, 1 `lost` (active non-bounced pipeline = 91).
+- Sourced 8 additional draft-only phone-first prospects (NYC/LA/Fort Lauderdale) with published email+phone; not contacted yet.
+- `sales/lead_tracker.csv` truth: 104 total leads = 72 `contacted`, 26 `draft`, 1 `queued`, 4 `bounced`, 1 `lost` (active non-bounced pipeline = 99).
 - $99 audit follow-up sent to 8 warm prospects and confirmed in Gmail All Mail.
 - Confirmed delivery failures: 4.
 - Confirmed lost replies: 1.
-- Remaining draft-only leads: 18 (11 with published email; 7 phone-only/contact-form leads).
+- Remaining draft-only leads: 26 (19 with published email; 7 phone-only/contact-form leads).
 - Rice Mediterranean Kitchen is queued in Mail Outbox only; do not mark contacted until Gmail All Mail confirms send.
 - Public demo is live: `https://igorganapolsky.github.io/AI_Voice_Phone_Ordering/`
 - Public landing now shows the $99 audit checkout as the lowest-friction CTA.
@@ -103,7 +104,10 @@ I can set this up for your menu and call flow in one afternoon. The setup sprint
   - Threads: `https://www.threads.com/@igorganapolsky/post/DYAgerbiDYL`
   - Bluesky: `https://bsky.app/profile/iganapolsky.bsky.social/post/3ml7eorsxua2c`
 - 2026-05-06 15:37 ET $99 audit Bluesky short dispatch completed on GitHub Actions run `25456470663`; logs report `published=1`, `errors=0`.
-- Stripe live balance remains `$0` available and `$0` pending as of 2026-05-06 15:45 ET; May 6 charge search returned no charges as of 2026-05-06 15:45 ET.
+- Emergency direct-checkout ThumbGate paid sprint pivot published through the working Zernio rail:
+  - Threads run `25459226488`: `published=1`, `errors=0`, post id `69fba47e951b178c1e789058`.
+  - Bluesky run `25459488138`: `published=1`, `errors=0`, post id `69fba5c21611a8798e2fea76`.
+- Stripe live balance remains `$0` available and `$0` pending as of 2026-05-06 16:35 ET; May 6 charge search returned no charges as of 2026-05-06 16:35 ET.
 - Inbox scan after the $99 follow-up found one lost reply from Seasons Catering: `Not interested at this time`. No immediate delivery failures matched those 8 follow-up addresses.
 - Exquisite Catering Boxtrapper verification passed at 2026-05-06 15:39 ET; this is not a buyer reply, so it remains in monitor state.
 - Zernio budget is capped at `$5/month`; organic publishing only. The provided local key returned `401 Unauthorized`, so rotate it before reuse.

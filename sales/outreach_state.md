@@ -26,13 +26,17 @@ Confirmed outreach from this `AI_Voice_Phone_Ordering` project:
 - 2026-05-06 15:44 ET: verified public GitHub Pages landing includes the $99 audit checkout CTA.
 - 2026-05-06 15:45 ET: verified Stripe live balance `$0` available / `$0` pending; May 6 live charge search returned none.
 - 2026-05-06 15:45 ET: sourced 7 additional high-fit phone-first prospects (5 with published email+phone; 2 phone-only contact-form leads) and kept them `draft`.
+- 2026-05-06 16:16 ET: verified Stripe live balance `$0` available / `$0` pending; May 6 live charge search returned none.
+- 2026-05-06 16:16 ET: sourced 8 additional high-fit phone-first prospects with published email+phone (NYC/LA/Fort Lauderdale) and kept them `draft`.
 - 2026-05-06 15:48 ET: ported the guarded one-at-a-time Mail sender pattern from `../Restaurant`; dry-run checked 3 eligible draft emails.
-- 2026-05-06 15:48 ET: sent 1 message to `catering@ricekitchen.com` and recorded it in `sales/sent_lock.csv` + `sales/lead_tracker.csv` (see `reports/gtm/2026-05-06-money-today/sent-batch-2026-05-06T15-48-51-04-00.csv`).
-- 2026-05-06 15:48 ET: queued one Rice Mediterranean Kitchen message in Mail Outbox; Gmail All Mail has not confirmed it, so the lead is `queued`, not `contacted`, and it is not in `sent_lock.csv`.
+- 2026-05-06 15:48 ET: queued one Rice Mediterranean Kitchen message through Mail automation; Gmail All Mail has not confirmed it, so the lead is `queued`, not `contacted`, and it is not in `sent_lock.csv`.
+- 2026-05-06 16:28 ET: emergency ThumbGate paid sprint pivot published to Threads via Zernio run `25459226488`; logs report `published=1`, `errors=0`, post id `69fba47e951b178c1e789058`.
+- 2026-05-06 16:34 ET: direct-checkout ThumbGate paid sprint pivot published to Bluesky via Zernio run `25459488138`; logs report `published=1`, `errors=0`, post id `69fba5c21611a8798e2fea76`.
+- 2026-05-06 16:35 ET: verified Stripe live balance `$0` available / `$0` pending; May 6 live charge search returned none after the Zernio posts.
 - Confirmed voice-agent first touches from this repo: 77.
 - Confirmed bounces: 4 (`info@cateringbylovables.com`, `info@whiskgourmet.com`, `catering@elpimientorestaurant.com`, `chefpaellaeventcatering@gmail.com`).
 - Confirmed lost replies: 1 (`seasonscatering40@aol.com`).
-- Active non-bounced pipeline (draft+queued+contacted+replied+demo_booked+won): 91.
+- Active non-bounced pipeline (draft+queued+contacted+replied+demo_booked+won): 99.
 - Verified follow-ups from this repo: 8.
 - Zernio budget is capped at `$5/month`; use organic posting only. No paid boosts, ads, or plan changes.
 - The provided local Zernio key returned `401 Unauthorized`; rotate it before reuse.
