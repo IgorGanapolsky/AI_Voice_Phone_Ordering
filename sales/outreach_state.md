@@ -20,10 +20,15 @@ Confirmed outreach from this `AI_Voice_Phone_Ordering` project:
 - 2026-05-06 15:18 ET: sourced 8 additional high-fit prospects with published phone + email (status `draft`; not contacted).
 - 2026-05-06 15:24 ET: created live $99 AI Phone 24-Hour Call Leak Audit checkout and sent 8 warm follow-ups; Gmail All Mail confirmed all 8; no immediate matching bounces.
 - 2026-05-06 15:32 ET: Seasons Catering replied `Not interested at this time`; marked `lost` and removed from follow-up.
-- Confirmed voice-agent first touches from this repo: 70.
+- 2026-05-06 15:35 ET: soft phone-order audit reply CTA sent to 7 additional published-email prospects; marked `contacted` and locked in `sales/sent_lock.csv`.
+- 2026-05-06 15:37 ET: Zernio $99 audit Bluesky short dispatch completed on GitHub Actions run `25456470663`; logs report `published=1`, `errors=0`.
+- 2026-05-06 15:39 ET: Exquisite Catering Boxtrapper verification passed; not a buyer reply, keep as `contacted` and monitor.
+- 2026-05-06 15:44 ET: verified public GitHub Pages landing includes the $99 audit checkout CTA.
+- 2026-05-06 15:44 ET: verified Stripe live balance `$0` available / `$0` pending; May 6 live charge search returned none.
+- Confirmed voice-agent first touches from this repo: 77.
 - Confirmed bounces: 4 (`info@cateringbylovables.com`, `info@whiskgourmet.com`, `catering@elpimientorestaurant.com`, `chefpaellaeventcatering@gmail.com`).
 - Confirmed lost replies: 1 (`seasonscatering40@aol.com`).
-- Active non-bounced pipeline (draft+queued+contacted+replied+demo_booked+won): 79.
+- Active non-bounced pipeline (draft+queued+contacted+replied+demo_booked+won): 84.
 - Verified follow-ups from this repo: 8.
 - Zernio budget is capped at `$5/month`; use organic posting only. No paid boosts, ads, or plan changes.
 - The provided local Zernio key returned `401 Unauthorized`; rotate it before reuse.
