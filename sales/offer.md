@@ -24,6 +24,23 @@ https://buy.stripe.com/cNi7sLbmIe1E9G135V3sI0F
 
 ## Fast First Step
 
+$99 AI Phone 24-Hour Call Leak Audit.
+
+Checkout:
+
+```text
+https://buy.stripe.com/eVq8wPaiEcXAf0l5e33sI17
+```
+
+Includes:
+
+- One personalized AI voice-agent audio proof for the operator's menu or event flow
+- Missed-call and call-handoff risk notes
+- One-page setup recommendation
+- Credited toward the $499 diagnostic if purchased within 7 days
+
+## Diagnostic
+
 $499 AI Phone Revenue Leak Diagnostic.
 
 Checkout:

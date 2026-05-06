@@ -16,9 +16,13 @@ Confirmed outreach from this `AI_Voice_Phone_Ordering` project:
 - 2026-05-06 14:17 ET: Zernio Bluesky short variant completed on GitHub Actions run `25452975637`; logs report `published=1`, `errors=0`.
 - 2026-05-06 14:16 ET: GitHub Pages build completed for commit `5c66091`; public landing includes the $499 diagnostic CTA.
 - 2026-05-06 14:31 ET: sourced 9 additional high-fit prospects with published phone + email (status `draft`; not contacted).
-- Confirmed voice-agent first touches from this repo: 53.
+- 2026-05-06 15:17 ET: verified Stripe live balance `$0` available / `$0` pending; searched May 6 succeeded charges and found none.
+- 2026-05-06 15:18 ET: sourced 8 additional high-fit prospects with published phone + email (status `draft`; not contacted).
+- 2026-05-06 15:24 ET: created live $99 AI Phone 24-Hour Call Leak Audit checkout and sent 8 warm follow-ups; Gmail All Mail confirmed all 8; no immediate matching bounces.
+- Confirmed voice-agent first touches from this repo: 70.
 - Confirmed bounces: 4 (`info@cateringbylovables.com`, `info@whiskgourmet.com`, `catering@elpimientorestaurant.com`, `chefpaellaeventcatering@gmail.com`).
-- Active non-bounced pipeline (draft+queued+contacted+replied+demo_booked+won): 59.
+- Active non-bounced pipeline (draft+queued+contacted+replied+demo_booked+won): 79.
+- Verified follow-ups from this repo: 8.
 - Zernio budget is capped at `$5/month`; use organic posting only. No paid boosts, ads, or plan changes.
 - The provided local Zernio key returned `401 Unauthorized`; rotate it before reuse.
 

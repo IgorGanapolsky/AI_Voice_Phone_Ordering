@@ -46,6 +46,28 @@ Payment link:
 https://buy.stripe.com/8x2dR94Yk3n06tP7mb3sI0Q
 ```
 
+## AI Phone 24-Hour Call Leak Audit
+
+Amount: $99 one-time
+
+Product ID:
+
+```text
+prod_UT7EGuohGnbO2O
+```
+
+Price ID:
+
+```text
+price_1TUB0KGGBpd520QYbKLGoM6W
+```
+
+Payment link:
+
+```text
+https://buy.stripe.com/eVq8wPaiEcXAf0l5e33sI17
+```
+
 ## Monthly Monitoring
 
 Amount: $297/month

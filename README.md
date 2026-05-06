@@ -100,6 +100,12 @@ Setup checkout:
 https://buy.stripe.com/cNi7sLbmIe1E9G135V3sI0F
 ```
 
+Audit checkout:
+
+```text
+https://buy.stripe.com/eVq8wPaiEcXAf0l5e33sI17
+```
+
 Diagnostic checkout:
 
 ```text
