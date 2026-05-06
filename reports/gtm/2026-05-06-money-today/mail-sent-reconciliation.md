@@ -41,12 +41,41 @@ https://buy.stripe.com/cNi7sLbmIe1E9G135V3sI0F
 - `sales/sent_lock.csv` prevents duplicate first touches.
 - Do not send another cold email to these addresses today unless they reply.
 
-## Second Batch Attempt
+## Second Batch
 
-Attempted a second demo-link batch after GitHub Pages went live:
+After restarting Mail cleanly, the second demo-link batch was sent and confirmed in Gmail All Mail:
 
 ```text
 https://igorganapolsky.github.io/AI_Voice_Phone_Ordering/
 ```
 
-Apple Mail timed out before returning success, and the local Mail index did not show those subjects as sent. Those second-batch leads remain `queued` in `sales/lead_tracker.csv` and must not be treated as contacted.
+Recipients:
+
+- Mami's 305: info@mamis305.com
+- Kai Tsu Restaurant: kaitsurestaurant@gmail.com
+- COD Seafood: eat@codseafood.com
+- Catering by Lovables: info@cateringbylovables.com
+- The Golden Hog: info@thegoldenhogmarket.com
+- Ghee Indian Kitchen: info@gheemiami.com
+- Tu Sushi 305: tusushi305@gmail.com
+- Joanna's Marketplace: CATERING@JOANNASMARKETPLACE.COM
+- Lemon Garden Organic Cafe: catering@miamiironside.com
+
+## Third Batch
+
+Fresh public-source batch sent and confirmed in Gmail All Mail:
+
+- Lovables Catering + Kitchen: info@lovablescatering.com
+- City Chef Catering: info@citychefcatering.com
+- Blue Collar Miami: info@bcrmiami.com
+- Whisk Gourmet: info@whiskgourmet.com
+- VNV Events: info@vnvevents.com
+- Grand Oasis: eni305@icloud.com
+
+## Running Total
+
+Confirmed voice-agent first touches from this repo:
+
+```text
+27
+```

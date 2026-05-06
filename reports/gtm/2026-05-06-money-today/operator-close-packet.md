@@ -64,7 +64,9 @@ I can set this up for your menu and call flow in one afternoon. The setup sprint
 
 - Stripe checkout links are live.
 - First Mail batch sent to 12 prospects.
-- Second demo-link batch is unconfirmed because Apple Mail timed out.
+- Second demo-link batch sent to 9 prospects after Mail relaunch.
+- Third demo-link batch sent to 6 prospects.
+- Confirmed voice-agent first touches from this repo: 27.
 - Public demo is live: `https://igorganapolsky.github.io/AI_Voice_Phone_Ordering/`
 - Stripe live balance remains `$0` available and `$0` pending as of the latest check.
 - Zernio budget is capped at `$5/month`; organic publishing only. The provided local key returned `401 Unauthorized`, so rotate it before reuse.

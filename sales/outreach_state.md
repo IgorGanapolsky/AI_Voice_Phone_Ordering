@@ -1,14 +1,13 @@
 # Outreach State
 
-Status: clean repo state.
+Status: active outreach in progress.
 
-No outreach has been sent from this `AI_Voice_Phone_Ordering` project yet.
-
-Correction after first send block:
+Confirmed outreach from this `AI_Voice_Phone_Ordering` project:
 
 - 2026-05-06 14:12 ET: first Mail batch returned `sent 12 messages`; those 12 are marked `contacted`.
-- 2026-05-06 14:40 ET: second demo-link batch timed out in Apple Mail and is not confirmed in the Mail index; those leads remain `queued`.
-- Apple Mail automation is currently unreliable until the Mail app or macOS automation permission issue is cleared.
+- 2026-05-06 13:55-13:56 ET: second demo-link batch sent after Mail relaunch; 9 marked `contacted`.
+- 2026-05-06 14:01 ET: third demo-link batch sent; 6 marked `contacted`.
+- Confirmed voice-agent first touches from this repo: 27.
 - Zernio budget is capped at `$5/month`; use organic posting only. No paid boosts, ads, or plan changes.
 - The provided local Zernio key returned `401 Unauthorized`; rotate it before reuse.
 
