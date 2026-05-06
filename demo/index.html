@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AI Voice Phone Ordering Agent Demo</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="workspace" aria-label="AI voice phone ordering demo">
+        <aside class="panel">
+          <div class="brand-row">
+            <div class="brand-mark" aria-hidden="true">VO</div>
+            <div>
+              <h1>Voice Ordering Agent</h1>
+              <p>24/7 phone answering for orders, reservations, upsells, and staff handoff.</p>
+            </div>
+          </div>
+
+          <div class="metric-grid" aria-label="Demo metrics">
+            <div>
+              <span id="calls-count">0</span>
+              <p>Calls handled</p>
+            </div>
+            <div>
+              <span id="orders-count">0</span>
+              <p>Orders captured</p>
+            </div>
+            <div>
+              <span id="subtotal-total">$0.00</span>
+              <p>Revenue drafted</p>
+            </div>
+          </div>
+
+          <div class="menu-preview">
+            <h2>Menu Source</h2>
+            <ul id="menu-list"></ul>
+          </div>
+        </aside>
+
+        <section class="phone" aria-label="Phone call simulator">
+          <header class="phone-header">
+            <div class="status-dot" aria-hidden="true"></div>
+            <div>
+              <h2>Miami Sandwich Co.</h2>
+              <p>AI phone agent on line 1</p>
+            </div>
+          </header>
+
+          <div class="call-meta" aria-label="Current call state">
+            <span id="call-intent">Ready for caller</span>
+            <span id="call-timer">00:00</span>
+          </div>
+
+          <div id="transcript-log" class="chat-log" aria-live="polite"></div>
+
+          <form id="call-form" class="composer">
+            <label class="sr-only" for="message-input">Caller transcript</label>
+            <input id="message-input" name="message" autocomplete="off" placeholder="Type what the caller says">
+            <button type="submit" aria-label="Process caller request">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M6.6 10.8c1.4 2.7 3.7 5 6.6 6.6l2.2-2.2c.3-.3.8-.4 1.2-.3 1.3.4 2.6.6 4 .6.7 0 1.2.5 1.2 1.2v3.6c0 .7-.5 1.2-1.2 1.2C10.5 21.5 2.5 13.5 2.5 3.4c0-.7.5-1.2 1.2-1.2h3.6c.7 0 1.2.5 1.2 1.2 0 1.4.2 2.8.6 4 .1.4 0 .9-.3 1.2l-2.2 2.2Z"></path>
+              </svg>
+            </button>
+          </form>
+
+          <div class="quick-actions" aria-label="Example calls">
+            <button type="button" data-message="I want two turkey footlong meals for pickup">Pickup Order</button>
+            <button type="button" data-message="Can I book a table for four tonight at 7?">Reservation</button>
+            <button type="button" data-message="Are you still taking orders?">Missed Call</button>
+          </div>
+        </section>
+
+        <aside class="panel kitchen-panel">
+          <h2>Staff Handoff</h2>
+          <div id="staff-log" class="kitchen-log">
+            <p class="empty-state">Orders, reservations, and missed-call recoveries will appear here.</p>
+          </div>
+
+          <h2>Offer</h2>
+          <div class="offer-box">
+            <strong>$2,997 setup sprint</strong>
+            <p>Voice number, call flow, menu and reservation logic, staff handoff, and launch walkthrough.</p>
+          </div>
+        </aside>
+      </section>
+    </main>
+    <script src="app.js"></script>
+  </body>
+</html>

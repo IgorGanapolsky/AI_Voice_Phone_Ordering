@@ -1,0 +1,2 @@
+timestamp,call_id,customer_name,customer_phone,party_size,requested_time,status,notes
+2026-05-06T13:34:00-04:00,demo-call-002,Demo Reservation,+13055550124,4,2026-05-06T19:00:00-04:00,needs_confirmation,"Agent asked for name and phone confirmation"

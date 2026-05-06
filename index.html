@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AI Voice Phone Ordering Agent</title>
+    <link rel="stylesheet" href="demo/styles.css">
+    <style>
+      .landing {
+        max-width: 960px;
+        margin: 0 auto;
+        display: grid;
+        gap: 18px;
+      }
+
+      .hero {
+        min-height: 58vh;
+        display: grid;
+        align-content: center;
+        gap: 18px;
+        padding: 40px;
+        border-radius: 8px;
+        background:
+          linear-gradient(rgba(15, 122, 90, 0.88), rgba(15, 122, 90, 0.78)),
+          url("https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1800&q=80");
+        background-size: cover;
+        background-position: center;
+        color: white;
+      }
+
+      .hero h1 {
+        max-width: 760px;
+        font-size: clamp(34px, 6vw, 64px);
+        line-height: 0.98;
+      }
+
+      .hero p {
+        max-width: 640px;
+        color: rgba(255, 255, 255, 0.92);
+        font-size: 18px;
+      }
+
+      .cta-row {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+      }
+
+      .cta {
+        display: inline-flex;
+        min-height: 44px;
+        align-items: center;
+        justify-content: center;
+        border-radius: 8px;
+        padding: 0 16px;
+        background: var(--yellow);
+        color: var(--ink);
+        font-weight: 800;
+        text-decoration: none;
+      }
+
+      .cta.secondary {
+        background: white;
+      }
+
+      .section {
+        background: white;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        padding: 24px;
+      }
+
+      .section-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 12px;
+      }
+
+      .section-grid div {
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        padding: 16px;
+      }
+
+      .section p,
+      .section li {
+        color: var(--muted);
+        line-height: 1.5;
+      }
+
+      @media (max-width: 760px) {
+        .hero {
+          padding: 28px;
+        }
+
+        .section-grid {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="app-shell">
+      <div class="landing">
+        <section class="hero">
+          <h1>AI Voice Phone Ordering Agent</h1>
+          <p>A restaurant phone agent that answers calls, drafts pickup orders, captures reservations, suggests add-ons, and sends staff a clean handoff.</p>
+          <div class="cta-row">
+            <a class="cta" href="demo/index.html">View Demo</a>
+            <a class="cta secondary" href="https://buy.stripe.com/cNi7sLbmIe1E9G135V3sI0F">Book the $2,997 Sprint</a>
+          </div>
+        </section>
+
+        <section class="section">
+          <h2>Built For</h2>
+          <div class="section-grid">
+            <div>
+              <h2>Restaurants</h2>
+              <p>Phone pickup orders, reservations, hours, and rush-hour missed-call recovery.</p>
+            </div>
+            <div>
+              <h2>Cafes & Bakeries</h2>
+              <p>Breakfast/lunch calls, special orders, catering inquiries, and staff summaries.</p>
+            </div>
+            <div>
+              <h2>Caterers</h2>
+              <p>Event lead qualification, call logs, quote handoff, and follow-up routing.</p>
+            </div>
+          </div>
+        </section>
+      </div>
+    </main>
+  </body>
+</html>

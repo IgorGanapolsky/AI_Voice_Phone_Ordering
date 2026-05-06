@@ -1,0 +1,2 @@
+timestamp,call_id,customer_name,customer_phone,items,subtotal,upsell_offered,upsell_accepted,pickup_time,status,notes
+2026-05-06T13:30:00-04:00,demo-call-001,Demo Customer,+13055550123,"2 Turkey Breast footlong; 2 Combo Upgrade",31.96,"Add cookies for the group while the sandwiches are being made",false,ASAP,demo,"Sample voice order for workflow testing"
