@@ -87,7 +87,10 @@ Fresh public-source $499 diagnostic batch sent and confirmed in Gmail All Mail:
 - House of Wings: Frantz@houseofwingsmiami.com
 - Chef Paella: chefpaellaeventcatering@gmail.com
 
-No new bounces were found in the immediate post-send scan; the scan only returned the two previously known delivery failures.
+Later bounce reconciliation found two delivery failures from this batch:
+
+- El Pimiento Express: catering@elpimientorestaurant.com: 550 No Such User Here
+- Chef Paella: chefpaellaeventcatering@gmail.com: account does not exist
 
 ## Running Total
 
@@ -100,16 +103,18 @@ Confirmed voice-agent first touches from this repo:
 Confirmed delivery failures from this repo:
 
 ```text
-2
+4
 ```
 
 Bounced addresses:
 
 - info@cateringbylovables.com: 550 No Such User Here
 - info@whiskgourmet.com: account does not exist
+- catering@elpimientorestaurant.com: 550 No Such User Here
+- chefpaellaeventcatering@gmail.com: account does not exist
 
 Active non-bounced first-touch pipeline:
 
 ```text
-35
+33
 ```

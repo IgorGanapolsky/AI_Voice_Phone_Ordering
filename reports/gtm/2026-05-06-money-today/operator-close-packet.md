@@ -75,9 +75,13 @@ I can set this up for your menu and call flow in one afternoon. The setup sprint
 - Third demo-link batch sent to 6 prospects.
 - Fourth $499 diagnostic batch sent to 10 prospects and confirmed in Gmail All Mail.
 - Confirmed voice-agent first touches from this repo: 37.
-- Confirmed delivery failures: 2.
-- Active non-bounced first-touch pipeline: 35.
+- Confirmed delivery failures: 4.
+- Active non-bounced first-touch pipeline: 33.
 - Public demo is live: `https://igorganapolsky.github.io/AI_Voice_Phone_Ordering/`
-- Stripe live balance remains `$0` available and `$0` pending as of 2026-05-06 14:04 ET.
+- Public landing now shows the $499 diagnostic checkout as a primary CTA.
+- Zernio organic dispatch completed successfully:
+  - Run `25452766248`: LinkedIn/Threads offer dispatch reported `published=3`, `errors=0`; Bluesky was blocked by length in that run.
+  - Run `25452975637`: Bluesky short variant reported `published=1`, `errors=0`.
+- Stripe charge search returned no May 6 charges as of 2026-05-06 14:18 ET. Latest balance check could not complete because the Stripe connector transport failed.
 - Zernio budget is capped at `$5/month`; organic publishing only. The provided local key returned `401 Unauthorized`, so rotate it before reuse.
 - Use `sales/lead_tracker.csv` for next buyer actions.
