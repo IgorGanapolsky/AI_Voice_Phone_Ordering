@@ -79,3 +79,20 @@ Confirmed voice-agent first touches from this repo:
 ```text
 27
 ```
+
+Confirmed delivery failures from this repo:
+
+```text
+2
+```
+
+Bounced addresses:
+
+- info@cateringbylovables.com: 550 No Such User Here
+- info@whiskgourmet.com: account does not exist
+
+Active non-bounced first-touch pipeline:
+
+```text
+25
+```

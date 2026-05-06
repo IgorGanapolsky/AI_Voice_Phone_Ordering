@@ -8,6 +8,8 @@ Confirmed outreach from this `AI_Voice_Phone_Ordering` project:
 - 2026-05-06 13:55-13:56 ET: second demo-link batch sent after Mail relaunch; 9 marked `contacted`.
 - 2026-05-06 14:01 ET: third demo-link batch sent; 6 marked `contacted`.
 - Confirmed voice-agent first touches from this repo: 27.
+- Confirmed bounces: 2 (`info@cateringbylovables.com`, `info@whiskgourmet.com`).
+- Active non-bounced first-touch pipeline: 25.
 - Zernio budget is capped at `$5/month`; use organic posting only. No paid boosts, ads, or plan changes.
 - The provided local Zernio key returned `401 Unauthorized`; rotate it before reuse.
 
