@@ -103,12 +103,34 @@ After two bounces in the fourth batch, a smaller replacement chunk was sent and 
 
 The next four replacement prospects timed out in Mail and were not found in Gmail All Mail, so they were not marked contacted.
 
+## Fresh Batch
+
+Fresh public-source $499 diagnostic chunk sent and confirmed in Gmail All Mail:
+
+- Neme Gastro Bar: nemegastrobar@gmail.com
+- Caffe Di Notte: caffedinotte@gmail.com
+- Safron Mediterranean Grill: safronsobe@gmail.com
+- Locura 305: locura305fl@gmail.com
+
+No immediate bounce matched these four addresses in the post-send scan.
+
+## Mobile Vendor Batch
+
+Current approved mobile food vendor list chunk sent and confirmed in Gmail All Mail:
+
+- Circus Eats: ROB@CIRCUSEATS.COM
+- Seasons Catering: seasonscatering40@aol.com
+- The Coconut 305: thecoconut305@gmail.com
+- V's Cakes Cheesecakes: vscakescheesecakes@gmail.com
+
+No immediate bounce matched these four addresses in the post-send scan.
+
 ## Running Total
 
 Confirmed voice-agent first touches from this repo:
 
 ```text
-41
+49
 ```
 
 Confirmed delivery failures from this repo:
@@ -127,5 +149,5 @@ Bounced addresses:
 Active non-bounced first-touch pipeline:
 
 ```text
-37
+45
 ```

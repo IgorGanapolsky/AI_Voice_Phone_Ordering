@@ -35,3 +35,11 @@ Avoid for first batch:
 - Cook'N Catering contact page: `https://www.cookncatering.com/contact`
 - House of Wings catering page: `https://houseofwingsmiami.com/catering`
 - Chef Paella contact page: `https://www.chefpaella.com/contacto`
+
+## 2026-05-06 Fresh Diagnostic Batch Sources
+
+- Neme Gastro Bar contact page: `https://www.nemegastrobar.com/contactus`
+- Caffe Di Notte contact page: `https://www.caffedinotte.com/contact`
+- Safron Mediterranean Grill site: `https://www.safrongrill.com/`
+- Locura 305 contact page: `https://locura305.com/contact-us`
+- City of Parkland approved mobile food vendor list through March 2026: `https://www.cityofparkland.org/DocumentCenter/View/18308/Food-Truck-Approved-List-`
