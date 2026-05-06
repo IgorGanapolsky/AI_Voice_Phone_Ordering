@@ -8,12 +8,13 @@ Confirmed outreach from this `AI_Voice_Phone_Ordering` project:
 - 2026-05-06 13:55-13:56 ET: second demo-link batch sent after Mail relaunch; 9 marked `contacted`.
 - 2026-05-06 14:01 ET: third demo-link batch sent; 6 marked `contacted`.
 - 2026-05-06 14:06 ET: fourth $499 diagnostic batch sent and confirmed in Gmail All Mail; 10 marked `contacted`.
+- 2026-05-06 14:25 ET: replacement $499 diagnostic chunk sent and confirmed in Gmail All Mail; 4 marked `contacted`.
 - 2026-05-06 14:15 ET: Zernio organic offer dispatch completed on GitHub Actions run `25452766248`; logs report `published=3`, `errors=0`.
 - 2026-05-06 14:17 ET: Zernio Bluesky short variant completed on GitHub Actions run `25452975637`; logs report `published=1`, `errors=0`.
 - 2026-05-06 14:16 ET: GitHub Pages build completed for commit `5c66091`; public landing includes the $499 diagnostic CTA.
-- Confirmed voice-agent first touches from this repo: 37.
+- Confirmed voice-agent first touches from this repo: 41.
 - Confirmed bounces: 4 (`info@cateringbylovables.com`, `info@whiskgourmet.com`, `catering@elpimientorestaurant.com`, `chefpaellaeventcatering@gmail.com`).
-- Active non-bounced first-touch pipeline: 33.
+- Active non-bounced first-touch pipeline: 37.
 - Zernio budget is capped at `$5/month`; use organic posting only. No paid boosts, ads, or plan changes.
 - The provided local Zernio key returned `401 Unauthorized`; rotate it before reuse.
 

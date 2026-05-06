@@ -92,12 +92,23 @@ Later bounce reconciliation found two delivery failures from this batch:
 - El Pimiento Express: catering@elpimientorestaurant.com: 550 No Such User Here
 - Chef Paella: chefpaellaeventcatering@gmail.com: account does not exist
 
+## Replacement Batch
+
+After two bounces in the fourth batch, a smaller replacement chunk was sent and confirmed in Gmail All Mail:
+
+- Latin Cafe: iamlatincafe@gmail.com
+- Chimichurri Los Primos: Chimichurrilosprimos@gmail.com
+- Taste Bakery Cafe: tastebakerycafe@gmail.com
+- La Cafetera 305: La.cafetera.305@gmail.com
+
+The next four replacement prospects timed out in Mail and were not found in Gmail All Mail, so they were not marked contacted.
+
 ## Running Total
 
 Confirmed voice-agent first touches from this repo:
 
 ```text
-37
+41
 ```
 
 Confirmed delivery failures from this repo:
@@ -116,5 +127,5 @@ Bounced addresses:
 Active non-bounced first-touch pipeline:
 
 ```text
-33
+37
 ```
