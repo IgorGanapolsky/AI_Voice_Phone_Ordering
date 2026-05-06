@@ -90,6 +90,7 @@ I can set this up for your menu and call flow in one afternoon. The setup sprint
 - Confirmed voice-agent first touches from this repo: 70.
 - $99 audit follow-up sent to 8 warm prospects and confirmed in Gmail All Mail.
 - Confirmed delivery failures: 4.
+- Confirmed lost replies: 1.
 - Active contacted non-bounced pipeline: 66.
 - Remaining draft-only leads: 13 (8 with published email+phone; 5 phone-only without email).
 - Public demo is live: `https://igorganapolsky.github.io/AI_Voice_Phone_Ordering/`
@@ -101,6 +102,6 @@ I can set this up for your menu and call flow in one afternoon. The setup sprint
   - Threads: `https://www.threads.com/@igorganapolsky/post/DYAgerbiDYL`
   - Bluesky: `https://bsky.app/profile/iganapolsky.bsky.social/post/3ml7eorsxua2c`
 - Stripe live balance remains `$0` available and `$0` pending as of 2026-05-06 15:17 ET; May 6 charge search returned no charges as of 2026-05-06 15:17 ET.
-- Inbox scan after the $99 follow-up found no prospect replies and no immediate delivery failures matching those 8 follow-up addresses.
+- Inbox scan after the $99 follow-up found one lost reply from Seasons Catering: `Not interested at this time`. No immediate delivery failures matched those 8 follow-up addresses.
 - Zernio budget is capped at `$5/month`; organic publishing only. The provided local key returned `401 Unauthorized`, so rotate it before reuse.
 - Use `sales/lead_tracker.csv` for next buyer actions.
