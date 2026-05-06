@@ -40,3 +40,13 @@ https://buy.stripe.com/cNi7sLbmIe1E9G135V3sI0F
 - `sales/lead_tracker.csv` marks these as `contacted`.
 - `sales/sent_lock.csv` prevents duplicate first touches.
 - Do not send another cold email to these addresses today unless they reply.
+
+## Second Batch Attempt
+
+Attempted a second demo-link batch after GitHub Pages went live:
+
+```text
+https://igorganapolsky.github.io/AI_Voice_Phone_Ordering/
+```
+
+Apple Mail timed out before returning success, and the local Mail index did not show those subjects as sent. Those second-batch leads remain `queued` in `sales/lead_tracker.csv` and must not be treated as contacted.
