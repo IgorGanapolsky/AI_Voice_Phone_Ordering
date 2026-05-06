@@ -99,3 +99,9 @@ Setup checkout:
 ```text
 https://buy.stripe.com/cNi7sLbmIe1E9G135V3sI0F
 ```
+
+Diagnostic checkout:
+
+```text
+https://buy.stripe.com/8x2dR94Yk3n06tP7mb3sI0Q
+```

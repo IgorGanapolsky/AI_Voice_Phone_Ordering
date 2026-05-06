@@ -24,6 +24,28 @@ Payment link:
 https://buy.stripe.com/cNi7sLbmIe1E9G135V3sI0F
 ```
 
+## AI Phone Revenue Leak Diagnostic
+
+Amount: $499 one-time
+
+Product ID:
+
+```text
+prod_UT5yMFB2sWqKIk
+```
+
+Price ID:
+
+```text
+price_1TU9mWGGBpd520QYSjzF45AH
+```
+
+Payment link:
+
+```text
+https://buy.stripe.com/8x2dR94Yk3n06tP7mb3sI0Q
+```
+
 ## Monthly Monitoring
 
 Amount: $297/month

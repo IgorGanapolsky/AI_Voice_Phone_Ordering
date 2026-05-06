@@ -18,6 +18,12 @@ Setup checkout:
 https://buy.stripe.com/cNi7sLbmIe1E9G135V3sI0F
 ```
 
+Diagnostic checkout:
+
+```text
+https://buy.stripe.com/8x2dR94Yk3n06tP7mb3sI0Q
+```
+
 Monthly monitoring checkout:
 
 ```text
@@ -63,6 +69,7 @@ I can set this up for your menu and call flow in one afternoon. The setup sprint
 ## Current Truth
 
 - Stripe checkout links are live.
+- $499 diagnostic checkout is live and should be the lower-friction same-day CTA.
 - First Mail batch sent to 12 prospects.
 - Second demo-link batch sent to 9 prospects after Mail relaunch.
 - Third demo-link batch sent to 6 prospects.

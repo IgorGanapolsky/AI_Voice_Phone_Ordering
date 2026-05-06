@@ -22,6 +22,24 @@ Checkout:
 https://buy.stripe.com/cNi7sLbmIe1E9G135V3sI0F
 ```
 
+## Fast First Step
+
+$499 AI Phone Revenue Leak Diagnostic.
+
+Checkout:
+
+```text
+https://buy.stripe.com/8x2dR94Yk3n06tP7mb3sI0Q
+```
+
+Includes:
+
+- Phone/order/reservation path review
+- Missed-call risk assessment
+- AI voice-agent fit notes
+- Menu and call-flow recommendations
+- Setup plan credited toward the $2,997 sprint if purchased within 7 days
+
 Includes:
 
 - Voice-agent call script and restaurant-specific prompt
