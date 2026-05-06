@@ -73,10 +73,11 @@ I can set this up for your menu and call flow in one afternoon. The setup sprint
 - First Mail batch sent to 12 prospects.
 - Second demo-link batch sent to 9 prospects after Mail relaunch.
 - Third demo-link batch sent to 6 prospects.
-- Confirmed voice-agent first touches from this repo: 27.
+- Fourth $499 diagnostic batch sent to 10 prospects and confirmed in Gmail All Mail.
+- Confirmed voice-agent first touches from this repo: 37.
 - Confirmed delivery failures: 2.
-- Active non-bounced first-touch pipeline: 25.
+- Active non-bounced first-touch pipeline: 35.
 - Public demo is live: `https://igorganapolsky.github.io/AI_Voice_Phone_Ordering/`
-- Stripe live balance remains `$0` available and `$0` pending as of the latest check.
+- Stripe live balance remains `$0` available and `$0` pending as of 2026-05-06 14:04 ET.
 - Zernio budget is capped at `$5/month`; organic publishing only. The provided local key returned `401 Unauthorized`, so rotate it before reuse.
 - Use `sales/lead_tracker.csv` for next buyer actions.

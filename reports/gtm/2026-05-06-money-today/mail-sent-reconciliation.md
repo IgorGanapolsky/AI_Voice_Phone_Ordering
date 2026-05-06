@@ -72,12 +72,29 @@ Fresh public-source batch sent and confirmed in Gmail All Mail:
 - VNV Events: info@vnvevents.com
 - Grand Oasis: eni305@icloud.com
 
+## Fourth Batch
+
+Fresh public-source $499 diagnostic batch sent and confirmed in Gmail All Mail:
+
+- El Pimiento Express: catering@elpimientorestaurant.com
+- Edan Bistro: info@edanbistro.com
+- Jacky's Cafe: jackyscafe@hotmail.com
+- El Machetico: info@elmacheticorestaurant.com
+- Bellacapri Restaurant: Bellacaprirestaurant@gmail.com
+- Sand'which Miami: contact@sandwhichmiami.com
+- Rosaluna Ristorante: info@rosalunaristorante.com
+- Cook'N Catering: Cooknfresh@gmail.com
+- House of Wings: Frantz@houseofwingsmiami.com
+- Chef Paella: chefpaellaeventcatering@gmail.com
+
+No new bounces were found in the immediate post-send scan; the scan only returned the two previously known delivery failures.
+
 ## Running Total
 
 Confirmed voice-agent first touches from this repo:
 
 ```text
-27
+37
 ```
 
 Confirmed delivery failures from this repo:
@@ -94,5 +111,5 @@ Bounced addresses:
 Active non-bounced first-touch pipeline:
 
 ```text
-25
+35
 ```

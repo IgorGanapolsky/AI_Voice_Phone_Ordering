@@ -22,3 +22,16 @@ Avoid for first batch:
 - Complex fine-dining menus with heavy allergy/customization risk
 - Restaurants that require payment before every order unless POS integration is already approved
 - Leads already contacted by another active campaign in the last 24 hours
+
+## 2026-05-06 Diagnostic Batch Sources
+
+- El Pimiento Express contact page: `https://elpimientoexpress.com/contact/`
+- Edan Bistro contact page: `https://www.edanbistro.com/contact`
+- Jacky's Cafe contact page: `https://www.jackyscafe.com/contact`
+- El Machetico contact page: `https://elmacheticorestaurant.com/contact-us/`
+- Bellacapri Restaurant contact page: `https://www.bellacaprirestaurant.com/blank`
+- Sand'which Miami site: `https://www.sandwhichmiami.com/`
+- Rosaluna Ristorante catering page: `https://rosalunaristorante.com/catering`
+- Cook'N Catering contact page: `https://www.cookncatering.com/contact`
+- House of Wings catering page: `https://houseofwingsmiami.com/catering`
+- Chef Paella contact page: `https://www.chefpaella.com/contacto`
